@@ -5,12 +5,14 @@
 - JS
 - Node.js
 - React
-- React Google Charts (npm install --save react-google-charts)
-- React gh-pages (npm install --save-dev gh-pages)
+- React Google Charts
+  (npm install --save react-google-charts)
+- React gh-pages
+  (npm install --save-dev gh-pages)
 
 ## Проект доступен на gh-pages по ссылке
 
--https://zhannaivashova.github.io/chart-app/
+https://zhannaivashova.github.io/chart-app/
 
 ## Запуск проекта
 
