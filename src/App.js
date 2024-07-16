@@ -9,7 +9,7 @@ function App() {
     ["Eat", 3],
     ["Commute", 4],
     ["Sport", 4],
-    ["Walk", 5],
+    ["Walk", 6],
     ["Sleep", 9]
   ];
   
